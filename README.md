@@ -15,7 +15,7 @@ Go言語で実装した5×5マスのミニ将棋ゲームです。CUIベース�
 ## 実行方法
 
 ```bash
-go run minishogi.go
+go run main.go
 ```
 
 ## ゲームの流れ
